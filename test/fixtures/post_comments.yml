@@ -1,0 +1,19 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  rails: MyString
+  g: MyString
+  model: MyString
+  PostComment: MyString
+  comment: MyText
+  user_id: 1
+  post_image_id: 
+
+two:
+  rails: MyString
+  g: MyString
+  model: MyString
+  PostComment: MyString
+  comment: MyText
+  user_id: 1
+  post_image_id: 
